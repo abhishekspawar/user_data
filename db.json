@@ -1,5 +1,10 @@
 {
     "users": [
-      
+      {
+          "id":"01AU232033",
+          "name":"Harshit",
+          "email":"harshitagarwal99@gmail.com",
+          "phone":789654123
+      }
     ]
 }
