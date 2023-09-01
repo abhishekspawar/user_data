@@ -3,16 +3,12 @@
         {
             "id":1,
             "name":"Raj Kumar",
-            "age":23,
-            "gender":"Male",
             "email":"rajkumar123@gmail.com",
             "phone":759486132
         },
         {
             "id":2,
             "name":"Sahil Kadam",
-            "age":19,
-            "gender":"Male",
             "email":"sahilk23@gmail.com",
             "phone":739148625
         }
