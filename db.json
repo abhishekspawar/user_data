@@ -1,16 +1,5 @@
 {
     "users": [
-        {
-            "id":1,
-            "name":"Raj Kumar",
-            "email":"rajkumar123@gmail.com",
-            "phone":759486132
-        },
-        {
-            "id":2,
-            "name":"Sahil Kadam",
-            "email":"sahilk23@gmail.com",
-            "phone":739148625
-        }
+      
     ]
 }
