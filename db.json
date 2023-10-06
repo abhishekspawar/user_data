@@ -6,5 +6,180 @@
           "email":"harshitagarwal99@gmail.com",
           "phone":789654123
       }
-    ]
+    ],
+      "properties": [
+    {
+      "id": 101,
+      "name": "Verona Classic",
+      "thumbnail": "/images/properties/101.jpg",
+      "city": "Mumbai",
+      "location": "Madh Island",
+      "price": 50000,
+      "propertyType": "Single Room",
+      
+      "furnishing":"Fully-Furnished",
+      "roomType": "2 BHK",
+      "tenantType": "Family",
+      "area": 1123,
+      "availableFrom": "2023/10/6"
+    },
+    {
+      "id": 102,
+      "name": "Exotica Avenue",
+      "thumbnail": "/images/properties/102.jpg",
+      "city": "Mumbai",
+      "location": "Powai",
+      "price": 60000,
+      "propertyType": "Single Room",
+
+      "furnishing":"Semi-Furnished",
+      "roomType": "3 BHK",
+      "tenantType": "Family",
+      "area": 978,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 103,
+      "name": "Godrej Bliss",
+      "thumbnail": "/images/properties/103.jpg",
+      "city": "Mumbai",
+      "location": "Kandivali",
+      "price": 15000,
+      "propertyType": "Single Room",
+
+      "furnishing":"Unfurnished",
+      "roomType": "1 RK",
+      "tenantType": "Family",
+      "area": 350,
+      "availableFrom": "2023/10/06"
+    },
+    {
+      "id": 104,
+      "name": "Ruparel Luminare",
+      "thumbnail": "/images/properties/104.jpg",
+      "city": "Pune",
+      "location": "Baner",
+      "price": 35000,
+      "propertyType": "Single Room",
+
+      "furnishing":"Fully-Furnished",
+      "roomType": "3 BHK",
+      "tenantType": "Family",
+
+      "area": 634,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 105,
+      "name": "Mayfair Gardens",
+      "thumbnail": "/images/properties/105.jpg",
+      "city": "Mumbai",
+      "location": "Virar",
+      "price": 14000,
+      "propertyType": "Single Room",
+      "furnishing":"Semi-Furnished",
+      "roomType": "1 RK",
+      "tenantType": "Family",
+      "area": 1278,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 106,
+      "name": "Arkade Aspire",
+      "thumbnail": "/images/properties/106.jpg",
+      "city": "Mumbai",
+      "location": "Goregaon",
+      "price": 90000,
+      "propertyType": "Single Room",
+      "furnishing":"Semi-Furnished",
+      "roomType": "5 BHK",
+      "tenantType": "Family",
+      "area": 1900,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 107,
+      "name": "Hostel",
+      "thumbnail": "/images/properties/107.jpg",
+      "city": "Mumbai",
+      "location": "Goregaon",
+      "price": 5000,
+      "propertyType": "Shared Room",
+      "furnishing":"Fully-Furnished",
+      "roomType": "1 RK",
+      "tenantType": "Female",
+      "area": 1900,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 108,
+      "name": "Shree Vidyman PG",
+      "thumbnail": "/images/properties/108.jpeg",
+      "city": "Mumbai",
+      "location": "Goregaon",
+      "price": 15000,
+      "propertyType": "Shared Room",
+      "furnishing":"Fully-Furnished",
+      "roomType": "1 RK",
+      "tenantType": "Female",
+      "area": 1900,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 109,
+      "name": "Flatmates",
+      "thumbnail": "/images/properties/112.jpg",
+      "city": "Mumbai",
+      "location": "Mahim",
+      "price": 15000,
+      "propertyType": "Shared Room",
+      "furnishing":"Fully-Furnished",
+      "roomType": "2 BHK",
+      "tenantType": "Male",
+      "area": 1900,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 110,
+      "name": "Holy Angel PG",
+      "thumbnail": "/images/properties/110.jpg",
+      "city": "Mumbai",
+      "location": "Dadar",
+      "price": 7000,
+      "propertyType": "Shared Room",
+      "furnishing":"Fully-Furnished",
+      "roomType": "1 RK",
+      "tenantType": "Female",
+      "area": 190,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 111,
+      "name": "Flatmates",
+      "thumbnail": "/images/properties/111.jpg",
+      "city": "Mumbai",
+      "location": "Virar",
+      "price": 7000,
+      "propertyType": "Shared Room",
+      "furnishing":"Fully-Furnished",
+      "roomType": "1 BHK",
+      "tenantType": "Female",
+      "area": 580,
+      "availableFrom": "2023/10/08"
+    },
+    {
+      "id": 112,
+      "name": "Hostel",
+      "thumbnail": "/images/properties/106.jpeg",
+      "city": "Mumbai",
+      "location": "Goregaon",
+      "price": 5000,
+      "propertyType": "Shared Room",
+      "furnishing":"Fully-Furnished",
+      "roomType": "1 RK",
+      "tenantType": "Male",
+      "area": 257,
+      "availableFrom": "2023/10/08"
+    }
+  ]
 }
